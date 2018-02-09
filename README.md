@@ -1,0 +1,1 @@
+# aprilstore-mybatis-generator-plugin
